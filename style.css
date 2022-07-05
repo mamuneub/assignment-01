@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.top-container{
+    background-image: url(images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background: transparent 0.3 ;
+    color: #ffffff;
+    text-align: center;
+}
+.hero-area{
+    padding: 100px;
+    font-size: 50px;
+}
+.btn-link{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: #ffffff;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
