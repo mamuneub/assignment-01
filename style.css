@@ -38,7 +38,7 @@ h1{
     font-size: 40px;
 }
 .text-color{
-    color: gray;
+    color: blue;
     padding-top: 10px;
 }
 .nav-tk ul{
@@ -47,10 +47,11 @@ h1{
 }
 .nav-tk ul ol{
     padding: 30px;
+    font-weight: 700;
 }
 .mark-200{
     color: #FF5959;
-    border: 1px solid red;
+    border: 2px solid red;
     border-radius: 5px;
     background-color: #FFEEEE;
 }
