@@ -29,7 +29,39 @@
     padding: 15px 25px;
     border-radius: 5px;
 }
-
-.nav-tk{
-    display: flex;
+.donate-area{
+    text-align: center;
+    padding-top: 80px;
 }
+.donate-area h1{
+    font-size: 40px;
+}
+.text-color{
+    color: gray;
+    padding-top: 10px;
+}
+.nav-tk ul{
+    display: inline-flex;
+    font-size: 30px;
+}
+.nav-tk ul ol{
+    padding: 30px;
+}
+.mark-200{
+    color: #FF5959;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+}
+.form-area{
+    padding: 40px;
+}
+.text-amount{
+    padding: 30px;
+    border: none;
+    border-color: transparent;
+    border-bottom: 1px solid gray;
+    width: 35%;
+    text-align: center;
+}
+
