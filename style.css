@@ -8,7 +8,7 @@
     background-image: url(images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 70vh;
+    height: 60vh;
     color: #ffffff;
     text-align: center;
 }
@@ -28,12 +28,13 @@
     color: #ffffff;
     padding: 15px 25px;
     border-radius: 5px;
+    font-weight: 700;
 }
 .donate-area{
     text-align: center;
     padding-top: 80px;
 }
-.donate-area h1{
+h1{
     font-size: 40px;
 }
 .text-color{
@@ -64,4 +65,44 @@
     width: 35%;
     text-align: center;
 }
-
+.donate-plan{
+    padding-top: 100px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    text-align: left;
+}
+#food{
+    background-color: #EDF5F6;
+    margin: 40px;
+    padding: 10px 10px;
+    border-radius: 5px;    
+}
+#shelter{
+    background-color: #FFEEEE;
+    margin: 40px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+#edu{
+    background-color: #FFF4D6;
+    margin: 40px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+img{
+    padding-bottom: 20px;
+}
+.live-containter{
+    display: flex;
+    margin-bottom: 100px;
+    padding-top: 60px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 2%
+}
+.half-width img{
+    width: 70%;
+}
